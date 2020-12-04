@@ -18,7 +18,7 @@ const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
 const BotName = 'BOT X-PLAY'; 
-const instagram = 'https://instagram.com/''dewiasya3; 
+const instagram = 'https://instagram.com/anggorgamep'; 
 const whatsapp = 'wa.me/6283870068641'; 
 const kapanbotaktif = 'Mungkin 24 JAM'; 
 //const grupch1 = 'belum ada grup'; 
